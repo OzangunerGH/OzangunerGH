@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">A passionate IT Professional and Automation Enthusiast</h3>
+<h3 align="center">A passionate IT Professional, Developer and Automation Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozangunergh&label=Profile%20views&color=0e75b6&style=flat" alt="ozangunergh" /> </p>
 
