@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [HousingNet](https://housingnet.org/login)
 
-- 🌱 I’m currently learning **Docker,Kubernetes,Terraform,Linux,Jenkins**
+- 🌱 I’m currently learning **Docker & Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OzangunerGH](https://github.com/OzangunerGH)
 
