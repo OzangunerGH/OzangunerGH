@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozangunergh" alt="ozangunergh" /></a> </p>
 
-- 🔭 I’m currently working on Azure Administrator Associate Certification 
+- 🔭 I’m currently working on Network Automation Methods
 
 - 🌱 I’m currently learning more about **Cloud Technologies**
 
