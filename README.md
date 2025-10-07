@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Network Automation Methods
 
-- 🌱 I’m currently learning more about **Cloud Technologies**
+- 🌱 I’m currently learning more about **Containerization and Container Management Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OzangunerGH](https://github.com/OzangunerGH)
 
